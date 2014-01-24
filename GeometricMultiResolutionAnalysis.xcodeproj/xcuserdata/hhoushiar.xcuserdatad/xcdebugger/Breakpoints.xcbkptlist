@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "1.0">
+   <FileBreakpoints>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "380734049.194406"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "458"
+         endingLineNumber = "458"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382029196.943709"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "471"
+         endingLineNumber = "471"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "505"
+         endingLineNumber = "505"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031273.129297"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "472"
+         endingLineNumber = "472"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031273.129297"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "475"
+         endingLineNumber = "475"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "486"
+         endingLineNumber = "486"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "484"
+         endingLineNumber = "484"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "488"
+         endingLineNumber = "488"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031273.129297"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "474"
+         endingLineNumber = "474"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382029478.68076"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "470"
+         endingLineNumber = "470"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "392307489.558674"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "575"
+         endingLineNumber = "575"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "392307489.558674"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "587"
+         endingLineNumber = "587"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "392307489.558674"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "594"
+         endingLineNumber = "594"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "392307489.558674"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "632"
+         endingLineNumber = "632"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "392308750.711769"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "993"
+         endingLineNumber = "993"
+         landmarkName = "ComputeMSVD(ANNpointArray dataPts, ANNkd_tree *kdTree, param_MSVD *params, double **PointsS, double **PointsV)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "547"
+         endingLineNumber = "547"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "479"
+         endingLineNumber = "479"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "490"
+         endingLineNumber = "490"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "504"
+         endingLineNumber = "504"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031458.849839"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "480"
+         endingLineNumber = "480"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031433.525441"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "482"
+         endingLineNumber = "482"
+         landmarkName = "Wcomputation(double **Matrix, unsigned long nPts, unsigned long bags, double **PointsSS, double **PointsU)"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031802.962368"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "532"
+         endingLineNumber = "532"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "No"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "GeometricMultiResolutionAnalysis/main.cpp"
+         timestampString = "382031805.290478"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "531"
+         endingLineNumber = "531"
+         landmarkName = "EstimateDimFromSpectra (unsigned long nDims, unsigned long nscales,double **PointsS, unsigned long k,unsigned long *cDeltas, int width, unsigned long DimEst, vector&lt;unsigned long&gt; &amp;Goodscales )"
+         landmarkType = "7">
+      </FileBreakpoint>
+   </FileBreakpoints>
+</Bucket>

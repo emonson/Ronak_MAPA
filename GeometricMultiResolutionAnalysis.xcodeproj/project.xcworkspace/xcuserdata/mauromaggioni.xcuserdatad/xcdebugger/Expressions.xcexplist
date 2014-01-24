@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "annBoxDistance(double*, double*, double*, int):kd_util.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "lo[d]">
+            </PersistentString>
+            <PersistentString
+               value = "hi[d]">
+            </PersistentString>
+            <PersistentString
+               value = "q[d]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MultiscaleSVD::MultiSVDOnSetOfPoints(double**, unsigned int, int**, unsigned long, unsigned long*, unsigned long, double*, unsigned int):Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;(dataPts[nnIdxs[k][p]])+4">
+            </PersistentString>
+            <PersistentString
+               value = "nnIdxs[k][p]">
+            </PersistentString>
+            <PersistentString
+               value = "nnIdxsWidth[k]">
+            </PersistentString>
+            <PersistentString
+               value = "*(dataPts[nnIdxs[k][p]]+2)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ANNkd_tree::annkSearch(double*, int, int*, double*, double):kd_search.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dd[i]">
+            </PersistentString>
+            <PersistentString
+               value = "nn_idx[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ComputeGraph(double**, ANNkd_tree*, unsigned long, unsigned long, cs_di_sparse**, unsigned long):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "sigma[k]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "memcpy$VARIANT$sse42:(null)">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ANNkd_tree::ANNkd_tree(double**, int, int, int, ANNsplitRule):kd_tree.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "root">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MultiscaleSVD::ComputeMSVDnetSingleScale(param_MSVD const*, double, unsigned long, unsigned long, Net**):Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "nnIdxs[k]">
+            </PersistentString>
+            <PersistentString
+               value = "nnIdxs[k+1]">
+            </PersistentString>
+            <PersistentString
+               value = "dataPts[kCurPtidx]">
+            </PersistentString>
+            <PersistentString
+               value = "nLocalPts[k]">
+            </PersistentString>
+            <PersistentString
+               value = "nLocalPts[0]">
+            </PersistentString>
+            <PersistentString
+               value = "nnIdxs[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MultiSVDOnSetOfPoints(param_MSVD_single*):Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "params-&gt;nnIdxs[k][p]">
+            </PersistentString>
+            <PersistentString
+               value = "PointsForSVD+params-&gt;nDims*(p+1)">
+            </PersistentString>
+            <PersistentString
+               value = "params_mt[k]">
+            </PersistentString>
+            <PersistentString
+               value = "params-&gt;nnIdxsWidth[k]">
+            </PersistentString>
+            <PersistentString
+               value = "PointsForSVD[p*params-&gt;nDims+5]">
+            </PersistentString>
+            <PersistentString
+               value = "params-&gt;dataPts[params-&gt;nnIdxs[k][p]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MultiscaleSVD::ComputeMSVDnets(param_MSVD*):Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Nets">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ComputeMSVD(double**, ANNkd_tree*, param_MSVD*, double**, double**):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "PointsForSVD">
+            </PersistentString>
+            <PersistentString
+               value = "dists[1]">
+            </PersistentString>
+            <PersistentString
+               value = "nnIdx[p]">
+            </PersistentString>
+            <PersistentString
+               value = "dists[p]">
+            </PersistentString>
+            <PersistentString
+               value = "kNNs[j]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Net::WriteS(__sFILE*):Net.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "NetStats.nS">
+            </PersistentString>
+            <PersistentString
+               value = "idxs">
+            </PersistentString>
+            <PersistentString
+               value = "NetStats.S">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MultiSVDOnSetOfPoints(param_MSVD_single*):SVD.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "params-&gt;nnIdxsWidth[k]">
+            </PersistentString>
+            <PersistentString
+               value = "params-&gt;dataPts[params-&gt;nnIdxs[params-&gt;ChosenPtIdxs[k]][p]]">
+            </PersistentString>
+            <PersistentString
+               value = "params-&gt;nnIdxs[4995]">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;(PointsForSVD[params-&gt;nDims*p])">
+            </PersistentString>
+            <PersistentString
+               value = "params-&gt;ChosenPtIdxs[k]">
+            </PersistentString>
+            <PersistentString
+               value = "params-&gt;nnIdxs[params-&gt;ChosenPtIdxs[k]][p]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

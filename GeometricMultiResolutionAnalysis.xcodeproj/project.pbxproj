@@ -1,0 +1,298 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		253FB42215D3F0AB00AFFFB2 /* SVD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 253FB42015D3F0AB00AFFFB2 /* SVD.cpp */; };
+		253FB42615D4189600AFFFB2 /* TimeUtils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 253FB42415D4189600AFFFB2 /* TimeUtils.cpp */; };
+		25C42F8B15C56C2E00A45C95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 25C42F8A15C56C2E00A45C95 /* main.cpp */; };
+		25C42F8D15C56C2E00A45C95 /* GeometricMultiResolutionAnalysis.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 25C42F8C15C56C2E00A45C95 /* GeometricMultiResolutionAnalysis.1 */; };
+		25C42F9E15C56C5400A45C95 /* ANN_utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 25C42F9315C56C5400A45C95 /* ANN_utils.cpp */; };
+		25C42FA215C56C5400A45C95 /* Net.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 25C42F9A15C56C5400A45C95 /* Net.cpp */; };
+		25C42FC015C5AF3700A45C95 /* cs_ioutils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 25C42FBE15C5AF3700A45C95 /* cs_ioutils.cpp */; };
+		441977A0160CA89600F136EB /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4419779F160CA89600F136EB /* Accelerate.framework */; };
+		444672051610AD7B004C1265 /* libANN.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 444672041610AD7B004C1265 /* libANN.a */; };
+		444672081610ADBA004C1265 /* libcxsparse.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 444672071610ADBA004C1265 /* libcxsparse.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		25C42F8415C56C2E00A45C95 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				25C42F8D15C56C2E00A45C95 /* GeometricMultiResolutionAnalysis.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		253FB42015D3F0AB00AFFFB2 /* SVD.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = SVD.cpp; sourceTree = "<group>"; };
+		253FB42115D3F0AB00AFFFB2 /* SVD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVD.h; sourceTree = "<group>"; };
+		253FB42415D4189600AFFFB2 /* TimeUtils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TimeUtils.cpp; sourceTree = "<group>"; };
+		253FB42515D4189600AFFFB2 /* TimeUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimeUtils.h; sourceTree = "<group>"; };
+		25C42F8615C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GeometricMultiResolutionAnalysis; sourceTree = BUILT_PRODUCTS_DIR; };
+		25C42F8A15C56C2E00A45C95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = GeometricMultiResolutionAnalysis/main.cpp; sourceTree = "<group>"; };
+		25C42F8C15C56C2E00A45C95 /* GeometricMultiResolutionAnalysis.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = GeometricMultiResolutionAnalysis.1; sourceTree = "<group>"; };
+		25C42F9315C56C5400A45C95 /* ANN_utils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ANN_utils.cpp; sourceTree = "<group>"; };
+		25C42F9415C56C5400A45C95 /* ANN_utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANN_utils.h; sourceTree = "<group>"; };
+		25C42F9A15C56C5400A45C95 /* Net.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Net.cpp; sourceTree = "<group>"; };
+		25C42F9B15C56C5400A45C95 /* Net.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Net.h; sourceTree = "<group>"; };
+		25C42FBE15C5AF3700A45C95 /* cs_ioutils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = cs_ioutils.cpp; sourceTree = "<group>"; };
+		25C42FBF15C5AF3700A45C95 /* cs_ioutils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = cs_ioutils.h; sourceTree = "<group>"; };
+		4419779F160CA89600F136EB /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = ../../../../../../../System/Library/Frameworks/Accelerate.framework; sourceTree = "<group>"; };
+		444672041610AD7B004C1265 /* libANN.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libANN.a; path = ../ann_1.1.1/lib/libANN.a; sourceTree = "<group>"; };
+		444672071610ADBA004C1265 /* libcxsparse.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libcxsparse.a; path = ../SuiteSparse/CXSparse/Lib/libcxsparse.a; sourceTree = "<group>"; };
+		4446720A1610AE0C004C1265 /* ANN.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ANN.h; sourceTree = "<group>"; };
+		4446720B1610AE0C004C1265 /* ANNperf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ANNperf.h; sourceTree = "<group>"; };
+		4446720C1610AE0C004C1265 /* ANNx.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ANNx.h; sourceTree = "<group>"; };
+		4446720D1610AE44004C1265 /* cs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = cs.h; path = ../SuiteSparse/CXSparse/Include/cs.h; sourceTree = "<group>"; };
+		4446720E1610AE6D004C1265 /* SuiteSparse_config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SuiteSparse_config.h; path = ../SuiteSparse/SuiteSparse_config/SuiteSparse_config.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		25C42F8315C56C2E00A45C95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				441977A0160CA89600F136EB /* Accelerate.framework in Frameworks */,
+				444672051610AD7B004C1265 /* libANN.a in Frameworks */,
+				444672081610ADBA004C1265 /* libcxsparse.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		25C42F7B15C56C2E00A45C95 = {
+			isa = PBXGroup;
+			children = (
+				25C42FBE15C5AF3700A45C95 /* cs_ioutils.cpp */,
+				25C42FBF15C5AF3700A45C95 /* cs_ioutils.h */,
+				4419779F160CA89600F136EB /* Accelerate.framework */,
+				444672041610AD7B004C1265 /* libANN.a */,
+				444672071610ADBA004C1265 /* libcxsparse.a */,
+				25C42F9315C56C5400A45C95 /* ANN_utils.cpp */,
+				25C42F9415C56C5400A45C95 /* ANN_utils.h */,
+				25C42F9A15C56C5400A45C95 /* Net.cpp */,
+				25C42F9B15C56C5400A45C95 /* Net.h */,
+				444672091610AE0C004C1265 /* ANN */,
+				253FB42415D4189600AFFFB2 /* TimeUtils.cpp */,
+				4446720D1610AE44004C1265 /* cs.h */,
+				253FB42515D4189600AFFFB2 /* TimeUtils.h */,
+				4446720E1610AE6D004C1265 /* SuiteSparse_config.h */,
+				25C42F8A15C56C2E00A45C95 /* main.cpp */,
+				253FB42015D3F0AB00AFFFB2 /* SVD.cpp */,
+				253FB42115D3F0AB00AFFFB2 /* SVD.h */,
+				25C42F8915C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */,
+				25C42F8715C56C2E00A45C95 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		25C42F8715C56C2E00A45C95 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				25C42F8615C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		25C42F8915C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */ = {
+			isa = PBXGroup;
+			children = (
+				25C42F8C15C56C2E00A45C95 /* GeometricMultiResolutionAnalysis.1 */,
+			);
+			path = GeometricMultiResolutionAnalysis;
+			sourceTree = "<group>";
+		};
+		444672091610AE0C004C1265 /* ANN */ = {
+			isa = PBXGroup;
+			children = (
+				4446720A1610AE0C004C1265 /* ANN.h */,
+				4446720B1610AE0C004C1265 /* ANNperf.h */,
+				4446720C1610AE0C004C1265 /* ANNx.h */,
+			);
+			name = ANN;
+			path = ../ann_1.1.1/include/ANN;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		25C42F8515C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 25C42F9015C56C2E00A45C95 /* Build configuration list for PBXNativeTarget "GeometricMultiResolutionAnalysis" */;
+			buildPhases = (
+				25C42F8215C56C2E00A45C95 /* Sources */,
+				25C42F8315C56C2E00A45C95 /* Frameworks */,
+				25C42F8415C56C2E00A45C95 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GeometricMultiResolutionAnalysis;
+			productName = GeometricMultiResolutionAnalysis;
+			productReference = 25C42F8615C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		25C42F7D15C56C2E00A45C95 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Mauro Maggioni";
+			};
+			buildConfigurationList = 25C42F8015C56C2E00A45C95 /* Build configuration list for PBXProject "GeometricMultiResolutionAnalysis" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 25C42F7B15C56C2E00A45C95;
+			productRefGroup = 25C42F8715C56C2E00A45C95 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				25C42F8515C56C2E00A45C95 /* GeometricMultiResolutionAnalysis */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		25C42F8215C56C2E00A45C95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25C42F8B15C56C2E00A45C95 /* main.cpp in Sources */,
+				25C42F9E15C56C5400A45C95 /* ANN_utils.cpp in Sources */,
+				25C42FA215C56C5400A45C95 /* Net.cpp in Sources */,
+				25C42FC015C5AF3700A45C95 /* cs_ioutils.cpp in Sources */,
+				253FB42215D3F0AB00AFFFB2 /* SVD.cpp in Sources */,
+				253FB42615D4189600AFFFB2 /* TimeUtils.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		25C42F8E15C56C2E00A45C95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		25C42F8F15C56C2E00A45C95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		25C42F9115C56C2E00A45C95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				HEADER_SEARCH_PATHS = /usr/local/include;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../../../Library/Developer/Xcode/DerivedData/ANN-gqstqsfgaphfcvekxnbqsekuxygn/Build/Products/Debug\"",
+					"\"$(SRCROOT)/../ann_1.1.1/lib\"",
+					"\"$(SRCROOT)/../SuiteSparse/CXSparse/Lib\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		25C42F9215C56C2E00A45C95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "compiler-default";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../../../Library/Developer/Xcode/DerivedData/ANN-gqstqsfgaphfcvekxnbqsekuxygn/Build/Products/Debug\"",
+					"\"$(SRCROOT)/../ann_1.1.1/lib\"",
+					"\"$(SRCROOT)/../SuiteSparse/CXSparse/Lib\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		25C42F8015C56C2E00A45C95 /* Build configuration list for PBXProject "GeometricMultiResolutionAnalysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25C42F8E15C56C2E00A45C95 /* Debug */,
+				25C42F8F15C56C2E00A45C95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		25C42F9015C56C2E00A45C95 /* Build configuration list for PBXNativeTarget "GeometricMultiResolutionAnalysis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25C42F9115C56C2E00A45C95 /* Debug */,
+				25C42F9215C56C2E00A45C95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 25C42F7D15C56C2E00A45C95 /* Project object */;
+}
